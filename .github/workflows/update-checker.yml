@@ -13,7 +13,7 @@ name: Update Checker
 
 env:
   REPO_URL: https://github.com/openwrt/openwrt
-  REPO_BRANCH: openwrt-22.03.3
+  REPO_BRANCH: v22.03.3
 
 on:
   workflow_dispatch:
